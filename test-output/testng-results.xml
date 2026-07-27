@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="4" passed="4" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2026-07-27T13:03:31 IST" name="OrangeHRM Automation Suite" finished-at="2026-07-27T13:06:54 IST" duration-ms="202563">
+    <groups>
+      <group name="Master">
+        <method signature="LoginTest.validLogin()[pri:1, instance:testCases.LoginTest@4f5991f6]" name="validLogin" class="testCases.LoginTest"/>
+        <method signature="PIMTest.addNewEmployee()[pri:1, instance:testCases.PIMTest@2b76ff4e]" name="addNewEmployee" class="testCases.PIMTest"/>
+        <method signature="LoginTest.validLogin()[pri:1, instance:testCases.LoginTest@48e92c5c]" name="validLogin" class="testCases.LoginTest"/>
+        <method signature="PIMTest.addNewEmployee()[pri:1, instance:testCases.PIMTest@2e1ef60]" name="addNewEmployee" class="testCases.PIMTest"/>
+      </group> <!-- Master -->
+      <group name="Sanity">
+        <method signature="LoginTest.validLogin()[pri:1, instance:testCases.LoginTest@4f5991f6]" name="validLogin" class="testCases.LoginTest"/>
+        <method signature="PIMTest.addNewEmployee()[pri:1, instance:testCases.PIMTest@2b76ff4e]" name="addNewEmployee" class="testCases.PIMTest"/>
+        <method signature="LoginTest.validLogin()[pri:1, instance:testCases.LoginTest@48e92c5c]" name="validLogin" class="testCases.LoginTest"/>
+        <method signature="PIMTest.addNewEmployee()[pri:1, instance:testCases.PIMTest@2e1ef60]" name="addNewEmployee" class="testCases.PIMTest"/>
+      </group> <!-- Sanity -->
+    </groups>
+    <test started-at="2026-07-27T13:03:31 IST" name="Sanity Tests - Chrome" finished-at="2026-07-27T13:06:16 IST" duration-ms="164573">
+      <class name="testCases.LoginTest">
+        <test-method is-config="true" signature="setup(java.lang.String,java.lang.String)[pri:0, instance:testCases.LoginTest@4f5991f6]" started-at="2026-07-27T13:05:30 IST" name="setup" finished-at="2026-07-27T13:05:57 IST" duration-ms="27139" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[windows]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="validLogin()[pri:1, instance:testCases.LoginTest@4f5991f6]" started-at="2026-07-27T13:05:57 IST" name="validLogin" finished-at="2026-07-27T13:06:13 IST" duration-ms="15972" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validLogin -->
+        <test-method is-config="true" signature="tearDownEach(org.testng.ITestResult)[pri:0, instance:testCases.LoginTest@4f5991f6]" started-at="2026-07-27T13:06:13 IST" name="tearDownEach" finished-at="2026-07-27T13:06:16 IST" duration-ms="2374" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=validLogin status=SUCCESS method=LoginTest.validLogin()[pri:1, instance:testCases.LoginTest@4f5991f6] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDownEach -->
+      </class> <!-- testCases.LoginTest -->
+      <class name="testCases.PIMTest">
+        <test-method is-config="true" signature="setup(java.lang.String,java.lang.String)[pri:0, instance:testCases.PIMTest@2b76ff4e]" started-at="2026-07-27T13:03:32 IST" name="setup" finished-at="2026-07-27T13:04:32 IST" duration-ms="60191" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[windows]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="addNewEmployee()[pri:1, instance:testCases.PIMTest@2b76ff4e]" started-at="2026-07-27T13:04:32 IST" name="addNewEmployee" finished-at="2026-07-27T13:05:29 IST" duration-ms="57163" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addNewEmployee -->
+        <test-method is-config="true" signature="tearDownEach(org.testng.ITestResult)[pri:0, instance:testCases.PIMTest@2b76ff4e]" started-at="2026-07-27T13:05:29 IST" name="tearDownEach" finished-at="2026-07-27T13:05:30 IST" duration-ms="791" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=addNewEmployee status=SUCCESS method=PIMTest.addNewEmployee()[pri:1, instance:testCases.PIMTest@2b76ff4e] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDownEach -->
+      </class> <!-- testCases.PIMTest -->
+    </test> <!-- Sanity Tests - Chrome -->
+    <test started-at="2026-07-27T13:03:31 IST" name="Regression Tests - Firefox" finished-at="2026-07-27T13:06:54 IST" duration-ms="202563">
+      <class name="testCases.LoginTest">
+        <test-method is-config="true" signature="setup(java.lang.String,java.lang.String)[pri:0, instance:testCases.LoginTest@48e92c5c]" started-at="2026-07-27T13:05:37 IST" name="setup" finished-at="2026-07-27T13:06:41 IST" duration-ms="64396" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[windows]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[firefox]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="validLogin()[pri:1, instance:testCases.LoginTest@48e92c5c]" started-at="2026-07-27T13:06:41 IST" name="validLogin" finished-at="2026-07-27T13:06:51 IST" duration-ms="9515" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validLogin -->
+        <test-method is-config="true" signature="tearDownEach(org.testng.ITestResult)[pri:0, instance:testCases.LoginTest@48e92c5c]" started-at="2026-07-27T13:06:51 IST" name="tearDownEach" finished-at="2026-07-27T13:06:54 IST" duration-ms="2786" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=validLogin status=SUCCESS method=LoginTest.validLogin()[pri:1, instance:testCases.LoginTest@48e92c5c] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDownEach -->
+      </class> <!-- testCases.LoginTest -->
+      <class name="testCases.PIMTest">
+        <test-method is-config="true" signature="setup(java.lang.String,java.lang.String)[pri:0, instance:testCases.PIMTest@2e1ef60]" started-at="2026-07-27T13:03:32 IST" name="setup" finished-at="2026-07-27T13:04:38 IST" duration-ms="65947" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[windows]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[firefox]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="addNewEmployee()[pri:1, instance:testCases.PIMTest@2e1ef60]" started-at="2026-07-27T13:04:38 IST" name="addNewEmployee" finished-at="2026-07-27T13:05:29 IST" duration-ms="51114" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addNewEmployee -->
+        <test-method is-config="true" signature="tearDownEach(org.testng.ITestResult)[pri:0, instance:testCases.PIMTest@2e1ef60]" started-at="2026-07-27T13:05:29 IST" name="tearDownEach" finished-at="2026-07-27T13:05:37 IST" duration-ms="7938" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=addNewEmployee status=SUCCESS method=PIMTest.addNewEmployee()[pri:1, instance:testCases.PIMTest@2e1ef60] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDownEach -->
+      </class> <!-- testCases.PIMTest -->
+    </test> <!-- Regression Tests - Firefox -->
+  </suite> <!-- OrangeHRM Automation Suite -->
+</testng-results>

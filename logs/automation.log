@@ -1,0 +1,291 @@
+11:20:03.196 [TestNG-tests-1] INFO  testCases.PIMTest - Browser launched fresh for this test and navigated to: https://opensource-demo.orangehrmlive.com/web/index.php/auth/login
+11:20:28.293 [TestNG-tests-1] INFO  testCases.PIMTest - New employee added successfully
+11:20:29.295 [TestNG-tests-1] INFO  testCases.PIMTest - Browser closed after test.
+11:20:37.544 [TestNG-tests-1] INFO  testCases.LoginTest - Browser launched fresh for this test and navigated to: https://opensource-demo.orangehrmlive.com/web/index.php/auth/login
+11:20:41.822 [TestNG-tests-1] INFO  testCases.LoginTest - Valid login test passed
+11:20:42.426 [TestNG-tests-1] INFO  testCases.LoginTest - Browser closed after test.
+11:22:13.056 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\workspaces\java with selenium\OrangeHRM\testng.xml
+
+11:22:22.100 [TestNG-tests-1] INFO  testCases.PIMTest - Browser launched fresh for this test and navigated to: https://opensource-demo.orangehrmlive.com/web/index.php/auth/login
+11:22:45.063 [TestNG-tests-1] INFO  testCases.PIMTest - New employee added successfully
+11:22:45.794 [TestNG-tests-1] INFO  testCases.PIMTest - Browser closed after test.
+11:22:55.611 [TestNG-tests-1] INFO  testCases.LoginTest - Browser launched fresh for this test and navigated to: https://opensource-demo.orangehrmlive.com/web/index.php/auth/login
+11:22:58.907 [TestNG-tests-1] INFO  testCases.LoginTest - Valid login test passed
+11:22:59.323 [TestNG-tests-1] INFO  testCases.LoginTest - Browser closed after test.
+11:32:40.764 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\workspaces\java with selenium\OrangeHRM\crossBrowserTesting.xml
+
+11:33:03.023 [TestNG-tests-1] INFO  testCases.PIMTest - Browser launched fresh for this test and navigated to: https://opensource-demo.orangehrmlive.com/web/index.php/auth/login
+11:33:20.779 [TestNG-tests-2] INFO  testCases.PIMTest - Browser launched fresh for this test and navigated to: https://opensource-demo.orangehrmlive.com/web/index.php/auth/login
+11:33:31.468 [TestNG-tests-1] INFO  testCases.PIMTest - New employee added successfully
+11:33:32.562 [TestNG-tests-1] INFO  testCases.PIMTest - Browser closed after test.
+11:33:40.064 [TestNG-tests-1] INFO  testCases.LoginTest - Browser launched fresh for this test and navigated to: https://opensource-demo.orangehrmlive.com/web/index.php/auth/login
+11:33:44.954 [TestNG-tests-1] INFO  testCases.LoginTest - Valid login test passed
+11:33:45.795 [TestNG-tests-1] INFO  testCases.LoginTest - Browser closed after test.
+11:33:52.994 [TestNG-tests-2] INFO  testCases.PIMTest - New employee added successfully
+11:33:55.417 [TestNG-tests-2] INFO  testCases.PIMTest - Browser closed after test.
+11:34:20.430 [TestNG-tests-2] INFO  testCases.LoginTest - Browser launched fresh for this test and navigated to: https://opensource-demo.orangehrmlive.com/web/index.php/auth/login
+11:34:25.794 [TestNG-tests-2] INFO  testCases.LoginTest - Valid login test passed
+11:34:29.261 [TestNG-tests-2] INFO  testCases.LoginTest - Browser closed after test.
+11:35:31.633 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\workspaces\java with selenium\OrangeHRM\crossBrowserTesting.xml
+
+11:35:47.759 [TestNG-tests-1] INFO  testCases.PIMTest - Browser launched fresh for this test and navigated to: https://opensource-demo.orangehrmlive.com/web/index.php/auth/login
+11:36:13.875 [TestNG-tests-1] INFO  testCases.PIMTest - New employee added successfully
+11:36:14.762 [TestNG-tests-1] INFO  testCases.PIMTest - Browser closed after test.
+11:36:22.010 [TestNG-tests-1] INFO  testCases.LoginTest - Browser launched fresh for this test and navigated to: https://opensource-demo.orangehrmlive.com/web/index.php/auth/login
+11:36:25.699 [TestNG-tests-1] INFO  testCases.LoginTest - Valid login test passed
+11:36:26.262 [TestNG-tests-1] INFO  testCases.LoginTest - Browser closed after test.
+11:38:49.229 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\workspaces\java with selenium\OrangeHRM\crossBrowserTesting.xml
+
+11:39:13.809 [TestNG-tests-1] INFO  testCases.PIMTest - Browser launched fresh for this test and navigated to: https://opensource-demo.orangehrmlive.com/web/index.php/auth/login
+11:39:38.745 [TestNG-tests-1] INFO  testCases.PIMTest - New employee added successfully
+11:39:39.902 [TestNG-tests-1] INFO  testCases.PIMTest - Browser closed after test.
+11:39:52.582 [TestNG-tests-1] INFO  testCases.LoginTest - Browser launched fresh for this test and navigated to: https://opensource-demo.orangehrmlive.com/web/index.php/auth/login
+11:39:56.058 [TestNG-tests-1] INFO  testCases.LoginTest - Valid login test passed
+11:39:56.585 [TestNG-tests-1] INFO  testCases.LoginTest - Browser closed after test.
+11:42:46.597 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\workspaces\java with selenium\OrangeHRM\crossBrowserTesting.xml
+
+11:42:57.939 [TestNG-tests-1] INFO  testCases.PIMTest - Browser launched fresh for this test and navigated to: https://opensource-demo.orangehrmlive.com/web/index.php/auth/login
+11:43:30.252 [TestNG-tests-1] INFO  testCases.PIMTest - New employee added successfully
+11:43:30.975 [TestNG-tests-1] INFO  testCases.PIMTest - Browser closed after test.
+11:43:54.274 [TestNG-tests-1] INFO  testCases.LoginTest - Browser launched fresh for this test and navigated to: https://opensource-demo.orangehrmlive.com/web/index.php/auth/login
+11:43:57.629 [TestNG-tests-1] INFO  testCases.LoginTest - Valid login test passed
+11:43:58.337 [TestNG-tests-1] INFO  testCases.LoginTest - Browser closed after test.
+11:58:40.323 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\workspaces\java with selenium\OrangeHRM\crossBrowserTesting.xml
+
+11:58:51.204 [TestNG-tests-1] INFO  testCases.PIMTest - Browser launched fresh for this test and navigated to: https://opensource-demo.orangehrmlive.com/web/index.php/auth/login
+11:59:19.613 [TestNG-tests-1] INFO  testCases.PIMTest - New employee added successfully
+11:59:20.200 [TestNG-tests-1] INFO  testCases.PIMTest - Browser closed after test.
+11:59:24.434 [TestNG-tests-1] INFO  testCases.LoginTest - Browser launched fresh for this test and navigated to: https://opensource-demo.orangehrmlive.com/web/index.php/auth/login
+11:59:27.446 [TestNG-tests-1] INFO  testCases.LoginTest - Valid login test passed
+11:59:27.773 [TestNG-tests-1] INFO  testCases.LoginTest - Browser closed after test.
+10:38:33.003 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\workspaces\java with selenium\OrangeHRM\testng.xml
+
+10:39:19.025 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\workspaces\java with selenium\OrangeHRM\testng.xml
+
+10:39:36.233 [TestNG-tests-1] INFO  testCases.PIMTest - Browser launched fresh for this test and navigated to: https://opensource-demo.orangehrmlive.com/web/index.php/auth/login
+10:40:40.598 [TestNG-tests-1] INFO  testCases.PIMTest - New employee added successfully
+10:40:41.600 [TestNG-tests-1] INFO  testCases.PIMTest - Browser closed after test.
+10:40:54.683 [TestNG-tests-1] INFO  testCases.LoginTest - Browser launched fresh for this test and navigated to: https://opensource-demo.orangehrmlive.com/web/index.php/auth/login
+10:40:57.905 [TestNG-tests-1] INFO  testCases.LoginTest - Valid login test passed
+10:40:58.390 [TestNG-tests-1] INFO  testCases.LoginTest - Browser closed after test.
+10:42:24.538 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\workspaces\java with selenium\OrangeHRM\testng.xml
+
+10:42:37.669 [TestNG-tests-1] INFO  testCases.PIMTest - Browser launched fresh for this test and navigated to: https://opensource-demo.orangehrmlive.com/web/index.php/auth/login
+10:43:01.240 [TestNG-tests-1] ERROR testCases.PIMTest - Test Failed: addNewEmployee | Screenshot: C:\workspaces\java with selenium\OrangeHRM/screenshots/addNewEmployee_20260727_104301.png
+10:43:03.812 [TestNG-tests-1] INFO  testCases.PIMTest - Browser closed after test.
+10:43:16.360 [TestNG-tests-1] INFO  testCases.LoginTest - Browser launched fresh for this test and navigated to: https://opensource-demo.orangehrmlive.com/web/index.php/auth/login
+10:43:41.036 [TestNG-tests-1] ERROR testCases.LoginTest - Test Failed: validLogin | Screenshot: C:\workspaces\java with selenium\OrangeHRM/screenshots/validLogin_20260727_104340.png
+10:43:42.685 [TestNG-tests-1] INFO  testCases.LoginTest - Browser closed after test.
+10:47:30.849 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\workspaces\java with selenium\OrangeHRM\testng.xml
+
+10:49:35.544 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\workspaces\java with selenium\OrangeHRM\testng.xml
+
+10:54:24.547 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\workspaces\java with selenium\OrangeHRM\testng.xml
+
+10:56:07.018 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\workspaces\java with selenium\OrangeHRM\testng.xml
+
+10:56:14.509 [TestNG-tests-1] INFO  testCases.PIMTest - Browser launched fresh for this test and navigated to: https://opensource-demo.orangehrmlive.com/web/index.php/auth/login
+10:56:38.243 [TestNG-tests-1] INFO  testCases.PIMTest - New employee added successfully
+10:56:38.912 [TestNG-tests-1] INFO  testCases.PIMTest - Browser closed after test.
+10:56:43.178 [TestNG-tests-1] INFO  testCases.LoginTest - Browser launched fresh for this test and navigated to: https://opensource-demo.orangehrmlive.com/web/index.php/auth/login
+10:56:46.882 [TestNG-tests-1] INFO  testCases.LoginTest - Valid login test passed
+10:56:47.241 [TestNG-tests-1] INFO  testCases.LoginTest - Browser closed after test.
+10:57:14.995 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\workspaces\java with selenium\OrangeHRM\testng.xml
+
+11:13:57.098 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\workspaces\java with selenium\OrangeHRM\testng.xml
+
+11:14:07.951 [TestNG-tests-1] INFO  testCases.PIMTest - Browser launched fresh for this test and navigated to: https://opensource-demo.orangehrmlive.com/web/index.php/auth/login
+11:14:27.899 [TestNG-tests-1] INFO  testCases.PIMTest - New employee added successfully
+11:14:29.211 [TestNG-tests-1] INFO  testCases.PIMTest - Browser closed after test.
+11:14:40.948 [TestNG-tests-1] INFO  testCases.LoginTest - Browser launched fresh for this test and navigated to: https://opensource-demo.orangehrmlive.com/web/index.php/auth/login
+11:14:44.128 [TestNG-tests-1] INFO  testCases.LoginTest - Valid login test passed
+11:14:45.996 [TestNG-tests-1] INFO  testCases.LoginTest - Browser closed after test.
+11:15:49.918 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\workspaces\java with selenium\OrangeHRM\crossBrowserTesting.xml
+
+11:15:58.015 [TestNG-tests-1] INFO  testCases.PIMTest - Browser launched fresh for this test and navigated to: https://opensource-demo.orangehrmlive.com/web/index.php/auth/login
+11:16:11.798 [TestNG-tests-2] INFO  testCases.PIMTest - Browser launched fresh for this test and navigated to: https://opensource-demo.orangehrmlive.com/web/index.php/auth/login
+11:16:23.516 [TestNG-tests-1] INFO  testCases.PIMTest - New employee added successfully
+11:16:24.448 [TestNG-tests-1] INFO  testCases.PIMTest - Browser closed after test.
+11:16:27.160 [TestNG-tests-2] INFO  testCases.PIMTest - New employee added successfully
+11:16:29.186 [TestNG-tests-2] INFO  testCases.PIMTest - Browser closed after test.
+11:16:29.512 [TestNG-tests-1] INFO  testCases.LoginTest - Browser launched fresh for this test and navigated to: https://opensource-demo.orangehrmlive.com/web/index.php/auth/login
+11:16:32.691 [TestNG-tests-1] INFO  testCases.LoginTest - Valid login test passed
+11:16:33.137 [TestNG-tests-1] INFO  testCases.LoginTest - Browser closed after test.
+11:16:41.907 [TestNG-tests-2] INFO  testCases.LoginTest - Browser launched fresh for this test and navigated to: https://opensource-demo.orangehrmlive.com/web/index.php/auth/login
+11:16:46.159 [TestNG-tests-2] INFO  testCases.LoginTest - Valid login test passed
+11:16:48.435 [TestNG-tests-2] INFO  testCases.LoginTest - Browser closed after test.
+11:30:35.906 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\workspaces\java with selenium\OrangeHRM\crossBrowserTesting.xml
+
+11:53:57.295 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\workspaces\java with selenium\OrangeHRM\crossBrowserTesting.xml
+
+11:58:43.834 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\workspaces\java with selenium\OrangeHRM\crossBrowserTesting.xml
+
+11:59:15.328 [TestNG-tests-1] INFO  testCases.PIMTest - Browser launched fresh for this test and navigated to: https://opensource-demo.orangehrmlive.com/web/index.php/auth/login
+11:59:19.042 [TestNG-tests-2] INFO  testCases.PIMTest - Browser launched fresh for this test and navigated to: https://opensource-demo.orangehrmlive.com/web/index.php/auth/login
+11:59:52.228 [TestNG-tests-2] INFO  testCases.PIMTest - New employee added successfully
+11:59:53.944 [TestNG-tests-2] INFO  testCases.PIMTest - Browser closed after test.
+12:00:46.012 [TestNG-tests-2] INFO  testCases.LoginTest - Browser launched fresh for this test and navigated to: https://opensource-demo.orangehrmlive.com/web/index.php/auth/login
+12:01:00.673 [TestNG-tests-2] ERROR testCases.LoginTest - Test Failed: validLogin | Screenshot: C:\workspaces\java with selenium\OrangeHRM/screenshots/validLogin_20260727_120100.png
+12:01:02.700 [TestNG-tests-2] INFO  testCases.LoginTest - Browser closed after test.
+12:08:36.744 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\workspaces\java with selenium\OrangeHRM\crossBrowserTesting.xml
+
+12:09:07.978 [TestNG-tests-2] INFO  testCases.PIMTest - Browser launched fresh for this test and navigated to: https://opensource-demo.orangehrmlive.com/web/index.php/auth/login
+12:09:10.657 [TestNG-tests-1] INFO  testCases.PIMTest - Browser launched fresh for this test and navigated to: https://opensource-demo.orangehrmlive.com/web/index.php/auth/login
+12:09:52.518 [TestNG-tests-2] INFO  testCases.PIMTest - New employee added successfully
+12:09:55.564 [TestNG-tests-2] INFO  testCases.PIMTest - Browser closed after test.
+12:10:15.667 [TestNG-tests-2] INFO  testCases.LoginTest - Browser launched fresh for this test and navigated to: https://opensource-demo.orangehrmlive.com/web/index.php/auth/login
+12:10:27.469 [TestNG-tests-2] INFO  testCases.LoginTest - Valid login test passed
+12:10:28.531 [TestNG-tests-2] INFO  testCases.LoginTest - Browser closed after test.
+12:21:59.040 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\workspaces\java with selenium\OrangeHRM\crossBrowserTesting.xml
+
+12:22:09.672 [TestNG-tests-1] INFO  testCases.PIMTest - Browser launched fresh for this test and navigated to: https://opensource-demo.orangehrmlive.com/web/index.php/auth/login
+12:22:19.986 [TestNG-tests-2] INFO  testCases.PIMTest - Browser launched fresh for this test and navigated to: https://opensource-demo.orangehrmlive.com/web/index.php/auth/login
+12:22:30.201 [TestNG-tests-1] INFO  testCases.PIMTest - New employee added successfully
+12:22:36.844 [TestNG-tests-1] INFO  testCases.PIMTest - Browser closed after test.
+12:22:43.881 [TestNG-tests-1] INFO  testCases.LoginTest - Browser launched fresh for this test and navigated to: https://opensource-demo.orangehrmlive.com/web/index.php/auth/login
+12:22:46.864 [TestNG-tests-2] INFO  testCases.PIMTest - New employee added successfully
+12:22:47.941 [TestNG-tests-1] INFO  testCases.LoginTest - Valid login test passed
+12:22:49.287 [TestNG-tests-1] INFO  testCases.LoginTest - Browser closed after test.
+12:22:49.714 [TestNG-tests-2] INFO  testCases.PIMTest - Browser closed after test.
+12:23:01.536 [TestNG-tests-2] INFO  testCases.LoginTest - Browser launched fresh for this test and navigated to: https://opensource-demo.orangehrmlive.com/web/index.php/auth/login
+12:23:04.398 [TestNG-tests-2] INFO  testCases.LoginTest - Valid login test passed
+12:23:06.551 [TestNG-tests-2] INFO  testCases.LoginTest - Browser closed after test.
+12:25:27.217 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\workspaces\java with selenium\OrangeHRM\crossBrowserTesting.xml
+
+12:25:35.770 [TestNG-tests-1] INFO  testCases.PIMTest - Browser launched fresh for this test and navigated to: https://opensource-demo.orangehrmlive.com/web/index.php/auth/login
+12:25:50.085 [TestNG-tests-2] INFO  testCases.PIMTest - Browser launched fresh for this test and navigated to: https://opensource-demo.orangehrmlive.com/web/index.php/auth/login
+12:25:51.341 [TestNG-tests-1] INFO  testCases.PIMTest - New employee added successfully
+12:25:53.187 [TestNG-tests-1] INFO  testCases.PIMTest - Browser closed after test.
+12:26:00.336 [TestNG-tests-1] INFO  testCases.LoginTest - Browser launched fresh for this test and navigated to: https://opensource-demo.orangehrmlive.com/web/index.php/auth/login
+12:26:06.278 [TestNG-tests-1] INFO  testCases.LoginTest - Valid login test passed
+12:26:07.256 [TestNG-tests-1] INFO  testCases.LoginTest - Browser closed after test.
+12:26:10.357 [TestNG-tests-2] INFO  testCases.PIMTest - New employee added successfully
+12:26:12.249 [TestNG-tests-2] INFO  testCases.PIMTest - Browser closed after test.
+12:26:29.734 [TestNG-tests-2] INFO  testCases.LoginTest - Browser launched fresh for this test and navigated to: https://opensource-demo.orangehrmlive.com/web/index.php/auth/login
+12:26:33.694 [TestNG-tests-2] INFO  testCases.LoginTest - Valid login test passed
+12:26:35.688 [TestNG-tests-2] INFO  testCases.LoginTest - Browser closed after test.
+12:30:13.294 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\workspaces\java with selenium\OrangeHRM\crossBrowserTesting.xml
+
+12:30:22.575 [TestNG-tests-1] INFO  testCases.PIMTest - Browser launched fresh for this test and navigated to: https://opensource-demo.orangehrmlive.com/web/index.php/auth/login
+12:30:35.268 [TestNG-tests-2] INFO  testCases.PIMTest - Browser launched fresh for this test and navigated to: https://opensource-demo.orangehrmlive.com/web/index.php/auth/login
+12:31:06.381 [TestNG-tests-2] INFO  testCases.PIMTest - New employee added successfully
+12:31:07.011 [TestNG-tests-1] INFO  testCases.PIMTest - New employee added successfully
+12:31:08.143 [TestNG-tests-1] INFO  testCases.PIMTest - Browser closed after test.
+12:31:08.331 [TestNG-tests-2] INFO  testCases.PIMTest - Browser closed after test.
+12:31:14.732 [TestNG-tests-1] INFO  testCases.LoginTest - Browser launched fresh for this test and navigated to: https://opensource-demo.orangehrmlive.com/web/index.php/auth/login
+12:31:22.349 [TestNG-tests-1] INFO  testCases.LoginTest - Valid login test passed
+12:31:23.099 [TestNG-tests-1] INFO  testCases.LoginTest - Browser closed after test.
+12:31:27.471 [TestNG-tests-2] INFO  testCases.LoginTest - Browser launched fresh for this test and navigated to: https://opensource-demo.orangehrmlive.com/web/index.php/auth/login
+12:31:35.550 [TestNG-tests-2] INFO  testCases.LoginTest - Valid login test passed
+12:31:37.261 [TestNG-tests-2] INFO  testCases.LoginTest - Browser closed after test.
+12:36:18.800 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\workspaces\java with selenium\OrangeHRM\crossBrowserTesting.xml
+
+12:36:28.574 [TestNG-tests-1] INFO  testCases.PIMTest - Browser launched fresh for this test and navigated to: https://opensource-demo.orangehrmlive.com/web/index.php/auth/login
+12:36:41.145 [TestNG-tests-2] INFO  testCases.PIMTest - Browser launched fresh for this test and navigated to: https://opensource-demo.orangehrmlive.com/web/index.php/auth/login
+12:37:06.277 [TestNG-tests-1] INFO  testCases.PIMTest - New employee added successfully
+12:37:07.146 [TestNG-tests-1] INFO  testCases.PIMTest - Browser closed after test.
+12:37:13.107 [TestNG-tests-1] INFO  testCases.LoginTest - Browser launched fresh for this test and navigated to: https://opensource-demo.orangehrmlive.com/web/index.php/auth/login
+12:37:15.446 [TestNG-tests-2] INFO  testCases.PIMTest - New employee added successfully
+12:37:17.127 [TestNG-tests-2] INFO  testCases.PIMTest - Browser closed after test.
+12:37:21.160 [TestNG-tests-1] INFO  testCases.LoginTest - Valid login test passed
+12:37:22.362 [TestNG-tests-1] INFO  testCases.LoginTest - Browser closed after test.
+12:37:31.734 [TestNG-tests-2] INFO  testCases.LoginTest - Browser launched fresh for this test and navigated to: https://opensource-demo.orangehrmlive.com/web/index.php/auth/login
+12:37:41.926 [TestNG-tests-2] INFO  testCases.LoginTest - Valid login test passed
+12:37:43.611 [TestNG-tests-2] INFO  testCases.LoginTest - Browser closed after test.
+12:45:49.653 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\workspaces\java with selenium\OrangeHRM\crossBrowserTesting.xml
+
+12:45:58.071 [TestNG-tests-1] INFO  testCases.PIMTest - Browser launched fresh for this test and navigated to: https://opensource-demo.orangehrmlive.com/web/index.php/auth/login
+12:46:12.652 [TestNG-tests-2] INFO  testCases.PIMTest - Browser launched fresh for this test and navigated to: https://opensource-demo.orangehrmlive.com/web/index.php/auth/login
+12:46:25.775 [TestNG-tests-1] INFO  testCases.PIMTest - New employee added successfully
+12:46:27.108 [TestNG-tests-1] INFO  testCases.PIMTest - Browser closed after test.
+12:46:34.592 [TestNG-tests-1] INFO  testCases.LoginTest - Browser launched fresh for this test and navigated to: https://opensource-demo.orangehrmlive.com/web/index.php/auth/login
+12:46:35.191 [TestNG-tests-2] INFO  testCases.PIMTest - New employee added successfully
+12:46:38.011 [TestNG-tests-2] INFO  testCases.PIMTest - Browser closed after test.
+12:46:38.093 [TestNG-tests-1] INFO  testCases.LoginTest - Valid login test passed
+12:46:38.536 [TestNG-tests-1] INFO  testCases.LoginTest - Browser closed after test.
+12:46:55.547 [TestNG-tests-2] INFO  testCases.LoginTest - Browser launched fresh for this test and navigated to: https://opensource-demo.orangehrmlive.com/web/index.php/auth/login
+12:46:58.877 [TestNG-tests-2] INFO  testCases.LoginTest - Valid login test passed
+12:47:01.693 [TestNG-tests-2] INFO  testCases.LoginTest - Browser closed after test.
+12:55:21.586 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\workspaces\java with selenium\OrangeHRM\crossBrowserTesting.xml
+
+12:55:34.459 [TestNG-tests-1] INFO  testCases.PIMTest - Browser launched fresh for this test and navigated to: https://opensource-demo.orangehrmlive.com/web/index.php/auth/login
+12:55:42.550 [TestNG-tests-2] INFO  testCases.PIMTest - Browser launched fresh for this test and navigated to: https://opensource-demo.orangehrmlive.com/web/index.php/auth/login
+12:56:05.365 [TestNG-tests-1] INFO  testCases.PIMTest - New employee added successfully
+12:56:06.143 [TestNG-tests-1] INFO  testCases.PIMTest - Browser closed after test.
+12:56:10.928 [TestNG-tests-2] INFO  testCases.PIMTest - New employee added successfully
+12:56:11.272 [TestNG-tests-1] INFO  testCases.LoginTest - Browser launched fresh for this test and navigated to: https://opensource-demo.orangehrmlive.com/web/index.php/auth/login
+12:56:13.620 [TestNG-tests-2] INFO  testCases.PIMTest - Browser closed after test.
+12:56:14.990 [TestNG-tests-1] INFO  testCases.LoginTest - Valid login test passed
+12:56:15.657 [TestNG-tests-1] INFO  testCases.LoginTest - Browser closed after test.
+12:56:33.706 [TestNG-tests-2] INFO  testCases.LoginTest - Browser launched fresh for this test and navigated to: https://opensource-demo.orangehrmlive.com/web/index.php/auth/login
+12:56:41.607 [TestNG-tests-2] INFO  testCases.LoginTest - Valid login test passed
+12:56:44.137 [TestNG-tests-2] INFO  testCases.LoginTest - Browser closed after test.
+13:02:57.867 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\workspaces\java with selenium\OrangeHRM\crossBrowserTesting.xml
+
+13:03:09.820 [TestNG-tests-1] INFO  testCases.PIMTest - Browser launched fresh for this test and navigated to: https://opensource-demo.orangehrmlive.com/web/index.php/auth/login
+13:03:31.626 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\workspaces\java with selenium\OrangeHRM\crossBrowserTesting.xml
+
+13:04:32.491 [TestNG-tests-1] INFO  testCases.PIMTest - Browser launched fresh for this test and navigated to: https://opensource-demo.orangehrmlive.com/web/index.php/auth/login
+13:04:38.323 [TestNG-tests-2] INFO  testCases.PIMTest - Browser launched fresh for this test and navigated to: https://opensource-demo.orangehrmlive.com/web/index.php/auth/login
+13:05:29.422 [TestNG-tests-2] INFO  testCases.PIMTest - New employee added successfully
+13:05:29.790 [TestNG-tests-1] INFO  testCases.PIMTest - New employee added successfully
+13:05:30.583 [TestNG-tests-1] INFO  testCases.PIMTest - Browser closed after test.
+13:05:37.469 [TestNG-tests-2] INFO  testCases.PIMTest - Browser closed after test.
+13:05:57.729 [TestNG-tests-1] INFO  testCases.LoginTest - Browser launched fresh for this test and navigated to: https://opensource-demo.orangehrmlive.com/web/index.php/auth/login
+13:06:13.704 [TestNG-tests-1] INFO  testCases.LoginTest - Valid login test passed
+13:06:16.232 [TestNG-tests-1] INFO  testCases.LoginTest - Browser closed after test.
+13:06:41.859 [TestNG-tests-2] INFO  testCases.LoginTest - Browser launched fresh for this test and navigated to: https://opensource-demo.orangehrmlive.com/web/index.php/auth/login
+13:06:51.388 [TestNG-tests-2] INFO  testCases.LoginTest - Valid login test passed
+13:06:54.234 [TestNG-tests-2] INFO  testCases.LoginTest - Browser closed after test.
+13:30:41.692 [TestNG-tests-1] INFO  testCases.PIMTest - Browser launched fresh for this test and navigated to: https://opensource-demo.orangehrmlive.com/web/index.php/auth/login
+13:31:13.832 [TestNG-tests-1] INFO  testCases.PIMTest - New employee added successfully
+13:31:15.945 [TestNG-tests-1] INFO  testCases.PIMTest - Browser closed after test.
+13:31:26.281 [TestNG-tests-1] INFO  testCases.LoginTest - Browser launched fresh for this test and navigated to: https://opensource-demo.orangehrmlive.com/web/index.php/auth/login
+13:31:32.540 [TestNG-tests-1] INFO  testCases.LoginTest - Valid login test passed
+13:31:33.155 [TestNG-tests-1] INFO  testCases.LoginTest - Browser closed after test.
+13:33:09.531 [TestNG-tests-1] INFO  testCases.PIMTest - Browser launched fresh for this test and navigated to: https://opensource-demo.orangehrmlive.com/web/index.php/auth/login
+13:33:44.276 [TestNG-tests-1] INFO  testCases.PIMTest - New employee added successfully
+13:33:45.059 [TestNG-tests-1] INFO  testCases.PIMTest - Browser closed after test.
+13:33:58.642 [TestNG-tests-1] INFO  testCases.LoginTest - Browser launched fresh for this test and navigated to: https://opensource-demo.orangehrmlive.com/web/index.php/auth/login
+13:34:08.147 [TestNG-tests-1] INFO  testCases.LoginTest - Valid login test passed
+13:34:08.524 [TestNG-tests-1] INFO  testCases.LoginTest - Browser closed after test.
+13:36:55.697 [TestNG-tests-1] INFO  testCases.PIMTest - Browser launched fresh for this test and navigated to: https://opensource-demo.orangehrmlive.com/web/index.php/auth/login
+13:37:26.804 [TestNG-tests-2] INFO  testCases.PIMTest - Browser launched fresh for this test and navigated to: https://opensource-demo.orangehrmlive.com/web/index.php/auth/login
+13:37:52.910 [TestNG-tests-1] INFO  testCases.PIMTest - New employee added successfully
+13:37:53.654 [TestNG-tests-1] INFO  testCases.PIMTest - Browser closed after test.
+13:38:04.360 [TestNG-tests-1] INFO  testCases.LoginTest - Browser launched fresh for this test and navigated to: https://opensource-demo.orangehrmlive.com/web/index.php/auth/login
+13:38:08.320 [TestNG-tests-2] INFO  testCases.PIMTest - New employee added successfully
+13:38:10.595 [TestNG-tests-1] INFO  testCases.LoginTest - Valid login test passed
+13:38:11.044 [TestNG-tests-1] INFO  testCases.LoginTest - Browser closed after test.
+13:38:14.335 [TestNG-tests-2] INFO  testCases.PIMTest - Browser closed after test.
+13:38:33.246 [TestNG-tests-2] INFO  testCases.LoginTest - Browser launched fresh for this test and navigated to: https://opensource-demo.orangehrmlive.com/web/index.php/auth/login
+13:38:41.431 [TestNG-tests-2] INFO  testCases.LoginTest - Valid login test passed
+13:38:42.635 [TestNG-tests-2] INFO  testCases.LoginTest - Browser closed after test.
